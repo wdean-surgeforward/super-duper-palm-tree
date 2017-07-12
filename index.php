@@ -1,6 +1,7 @@
 <?php
 
-print ("<h1>PHPInfo v1.0.0</h1>");
 phpinfo();
+
+print ("<h1>PHPInfo build 0002</h1>");
 
 ?>
